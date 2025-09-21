@@ -1,3 +1,6 @@
+
+## 🎯 Why This Matters
+This project demonstrates my ability to work with AI tools, annotate data effectively, and contribute to real-world solutions. It aligns with my goal to grow into an AI Product Specialist role.
 # azure-v3-guidelines-chatbot
 This is V3 guidelines chatbot which helps user to answer any queries regarding documentation of the clinical charts based on the guidelines.  
 ## 📌 Project Overview
